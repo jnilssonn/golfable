@@ -175,14 +175,6 @@ automatically from the development repository on every release.
 <!-- activity:start -->
 **295 commits** since 2026-02-02 · **165** in the last 30 days · last updated 2026-09-18
 
-**Contributors**
-
-- jnilssonn — 230 commits
-- Claude (AI pair programmer) — 80 commits
-- Morgan Johansson — 4 commits
-- Sebastian Fröberg — 3 commits
-- Mojjozz — 2 commits
-
 **Recent changes**
 
 | Date | Change |
