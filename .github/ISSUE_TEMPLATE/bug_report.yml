@@ -1,0 +1,42 @@
+name: 🐛 Bug report
+description: Something in Golfable didn't work the way you expected
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report this — it helps a lot.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, and what went wrong?
+      placeholder: I opened the scorecard on hole 7 and …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where in the app?
+      options:
+        - Scorecard / playing a round
+        - Tournament dashboard
+        - Leaderboard
+        - Profile / stats / AI coach
+        - Friends
+        - Login / account
+        - Somewhere else
+  - type: input
+    id: device
+    attributes:
+      label: Phone & browser
+      placeholder: e.g. iPhone 15, Safari — or installed as an app
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag and drop images here if you have any.

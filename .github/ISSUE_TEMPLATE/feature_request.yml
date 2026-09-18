@@ -1,0 +1,28 @@
+name: 💡 Feature idea
+description: Suggest something Golfable should do
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the situation?
+      description: What are you trying to do on the course (or after) that's clunky or impossible today?
+      placeholder: When we play a skins game we always end up …
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Golfable to do?
+    validations:
+      required: true
+  - type: dropdown
+    id: how-often
+    attributes:
+      label: How often would you use this?
+      options:
+        - Every round
+        - Most tournaments
+        - Now and then
+        - Just once, but it matters
