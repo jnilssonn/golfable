@@ -173,12 +173,21 @@ Golfable is built in the open, but the source code is private. This section is u
 automatically from the development repository on every release.
 
 <!-- activity:start -->
-**295 commits** since 2026-02-02 · **165** in the last 30 days · last updated 2026-09-18
+**297 commits** since 2026-02-02 · **165** in the last 30 days · last updated 2026-09-18
+
+**Contributors**
+
+- jnilssonn — 232 commits
+- Claude (AI pair programmer) — 81 commits
+- Morgan Johansson — 4 commits
+- Sebastian Fröberg — 3 commits
+- Mojjozz — 2 commits
 
 **Recent changes**
 
 | Date | Change |
 |---|---|
+| 2026-09-18 | Sync commit activity to the public showcase repo |
 | 2026-09-13 | Give the phone a club picker screen instead of a dropdown |
 | 2026-09-13 | Open the club list at the top of the screen on a phone |
 | 2026-09-13 | Search clubs from inside the popup instead of the field itself |
@@ -188,7 +197,6 @@ automatically from the development repository on every release.
 | 2026-09-07 | Land invite links in the player's own group, seat already theirs |
 | 2026-09-07 | Stack par over stroke index in the scorecard header badge |
 | 2026-09-07 | Let the players breathe under the scorecard header |
-| 2026-09-07 | Stop the tracking catch-up banner blinking, and give the scorecard its space back |
 <!-- activity:end -->
 
 <br>
